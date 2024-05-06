@@ -28,8 +28,8 @@ This project allows users to participate in an election by voting for their pref
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/web3-election-project.git`
-2. Install dependencies: `cd web3-election-project && npm install`
+1. Clone the repository: `git clone https://github.com/walterayiego/election.git`
+2. Install dependencies: `cd election && npm install`
 3. Compile smart contracts: `truffle compile`
 4. Deploy smart contracts to a local blockchain or test network: `truffle migrate`
 5. Start the frontend: `npm start`
